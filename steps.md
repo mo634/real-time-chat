@@ -1,3 +1,6 @@
-1.init nodejs project using "npm init --y"
-2.install express for backend 
-3.creating entry point of server app "app.js"
+--install nodemon package --
+1. app.js "basic setup"
+    -require express object 
+    -store it inside app variable to use the functionality 
+    -listen to port and start execute the logic 
+    -isolate logic of listen to port in server.js file 
